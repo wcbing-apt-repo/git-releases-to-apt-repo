@@ -1,4 +1,4 @@
-# Git Release to APT repo
+# Git Releases to APT repo
 
 这是 [wcbing APT Repo](https://github.com/wcbing/wcbing-apt-repo) 的一部分。
 

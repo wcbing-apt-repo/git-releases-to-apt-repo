@@ -45,12 +45,17 @@ jobs:
           cat $(find packages -name "*.package") > Packages
           apt-ftparchive release . > Release
 
+      - name: Set release name
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          echo "RELEASE_NAME=$(TZ='Asia/Shanghai' date -u +%Y%m%d-%H%M)" >> $GITHUB_ENV
+
       - name: Create Release
         if: steps.changes.outputs.changed == 'true'
         uses: softprops/action-gh-release@v1
         with:
-          name: Release ${{ format('yyyyMMdd-HHmm', github.run_time) }}
-          tag_name: ${{ format('yyyyMMdd-HHmm', github.run_time) }}
+          name: Release ${{ env.RELEASE_NAME }}
+          tag_name: ${{ env.RELEASE_NAME }}
           files: |
             Packages
             Release
