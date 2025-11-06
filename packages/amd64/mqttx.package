@@ -1,0 +1,21 @@
+Package: mqttx
+Architecture: amd64
+Version: 1.12.1
+Priority: optional
+Section: default
+Maintainer: EMQX Team <yusf@emqx.io>
+Installed-Size: 326725
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: https://github.com/emqx/MQTTX/releases/download/v1.12.1/MQTTX_1.12.1_amd64.deb
+Size: 85022340
+MD5sum: 19b8af296bae054854736654c0a15953
+SHA1: 0710f460849b4ffd5ec111c3eef78f12c91089a1
+SHA256: 67be65f59d2d7b432903defe5f0884949e11fa50c24d6d7b603478b248518799
+SHA512: c01c7e9122418ec0bfd1ea0ffa16f4868b069627d28e56875b47ee5983b5d20143c9bbeee2bb79f243c8242e7cb075eacb3c53d2cb22572f9033b3a5e8d956d5
+Homepage: https://github.com/emqx/MQTTX#readme
+Description: 
+  MQTT desktop client
+License: Apache-2.0
+Vendor: EMQX Team <yusf@emqx.io>
+

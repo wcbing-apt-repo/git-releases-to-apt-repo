@@ -1,0 +1,18 @@
+Package: peazip
+Architecture: amd64
+Version: 10.7.0
+Priority: optional
+Section: contrib/utils
+Maintainer: Giorgio Tani <giorgio.tani.software@gmail.com>
+Filename: https://github.com/peazip/PeaZip/releases/download/10.7.0/peazip_10.7.0.LINUX.GTK2-1_amd64.deb
+Size: 13366898
+MD5sum: 306ec7cc39a7c0e94c0b09c73445e7aa
+SHA1: 6a088ea7bc0ebe58108ce0e8b241531796335cb7
+SHA256: 7f47b1d356616af736f44bdef61d077c0e855045a8a8e9aeafe3c0ca2232978d
+SHA512: 827afea3d2e818fe02e153908487bdf5f7b029058469592fcde3833bebcdbe6df256a81ed2b43c5d00925e48ff9c101c71888774a371008ef8d895352c131678
+Homepage: https://peazip.github.io
+Description: PeaZip free file archiver utility, GTK2 build
+ PeaZip is an Open Source (LGPLv3) cross-platform archive manager utility, 
+ supporting over 200 archiving and compression formats as 7Z, BZip2, Brotli, 
+ GZip, PEA, RAR, ZIP, ZPAQ, Zstandard, and many more.
+

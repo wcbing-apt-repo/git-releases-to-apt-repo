@@ -1,0 +1,21 @@
+Package: joplin
+Architecture: amd64
+Version: 3.4.12
+Priority: optional
+Section: default
+Maintainer: Joplin Team <no-reply@joplinapp.org>
+Installed-Size: 399344
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: https://github.com/laurent22/joplin/releases/download/v3.4.12/Joplin-3.4.12.deb
+Size: 101164340
+MD5sum: 5877c8870c8728b1a9b9fbf05ef26674
+SHA1: 63a976ffa5b68b22dc7dd6499fbeedb1bf4f4f66
+SHA256: 49fafcfe615ac90449f9ce4545f807f054221df49877dbe785dbc7157ed0860d
+SHA512: 57ff22a340a79ea0eee403290085300b9fb70b240441f1946461079e02628a71215cd8f8c5c48b340de3754d912252daec42e14dcd34e8b0e141626de0f19c80
+Homepage: https://github.com/laurent22/joplin#readme
+Description: 
+  Joplin for Desktop
+License: AGPL-3.0-or-later
+Vendor: Joplin Team <no-reply@joplinapp.org>
+

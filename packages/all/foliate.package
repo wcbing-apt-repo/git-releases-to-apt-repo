@@ -1,0 +1,23 @@
+Package: foliate
+Architecture: all
+Version: 3.3.0
+Priority: optional
+Section: gnome
+Maintainer: John Factotum <50942278+johnfactotum@users.noreply.github.com>
+Installed-Size: 12366
+Depends: dconf-gsettings-backend | gsettings-backend, gjs (>= 1.72), gir1.2-gtk-4.0 (>= 4.10), gir1.2-adw-1 (>= 1.7), gir1.2-webkit-6.0
+Suggests: gir1.2-tracker-3.0
+Filename: https://github.com/johnfactotum/foliate/releases/download/3.3.0/foliate_3.3.0_all.deb
+Size: 3392854
+MD5sum: 0fc2313c7774228274d3f0da74983f20
+SHA1: 18fa82ce84a001aec5ffddf0adb1004e7e807543
+SHA256: 0639d8bf6268d03e3bb0336ec466fbec9b3e7a201a8f144e797f812dee443534
+SHA512: e016e575ff03a359a372324da78bf830e2aef2891bf56db94d74431f8792ddd1e3d07a1178f868a7b052831de0bb3b5dd556b3e26c1501b7a823be366bf1435e
+Homepage: https://johnfactotum.github.io/foliate/
+Description: Read e-books in style
+ Supported formats:
+   EPUB (.epub)
+   Kindle (.azw, .azw3) and Mobipocket (.mobi)
+   FictionBook 2 (.fb2, .fb2.zip)
+   Comic Book Archive (.cbz)
+

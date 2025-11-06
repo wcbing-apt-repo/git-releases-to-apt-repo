@@ -1,0 +1,21 @@
+Package: winboat
+Architecture: amd64
+Version: 0.8.7
+Priority: optional
+Section: default
+Maintainer: TibixDev <staff@winboat.app>
+Installed-Size: 370943
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: https://github.com/TibixDev/winboat/releases/download/v0.8.7/winboat-0.8.7-amd64.deb
+Size: 100278608
+MD5sum: f25a6419b784780c90e6d47a28da682c
+SHA1: b0233c81b0c6ca884932b34d98ef366073e66358
+SHA256: 1d4c93b8c79344e2e8dabb915356e68d985256f5c4a2155de77b1df03496a5fa
+SHA512: e8bb9620db5e01635ac99e40ac1d72bc1769b1faac322aa48517f1cc9640fe8cc9a076b4457d886987c27813fdd8195bb143a0e310cbc10daf6c5a2b602d18f7
+Homepage: https://github.com/TibixDev/winboat#readme
+Description: 
+  Windows for Penguins
+License: unknown
+Vendor: TibixDev <staff@winboat.app>
+

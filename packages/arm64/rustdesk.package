@@ -1,0 +1,17 @@
+Package: rustdesk
+Architecture: arm64
+Version: 1.4.3
+Priority: optional
+Section: net
+Maintainer: rustdesk <info@rustdesk.com>
+Depends: libgtk-3-0, libxcb-randr0, libxdo3, libxfixes3, libxcb-shape0, libxcb-xfixes0, libasound2, libsystemd0, curl, libva2, libva-drm2, libva-x11-2, libgstreamer-plugins-base1.0-0, libpam0g, gstreamer1.0-pipewire
+Recommends: libayatana-appindicator3-1
+Filename: https://github.com/rustdesk/rustdesk/releases/download/1.4.3/rustdesk-1.4.3-aarch64.deb
+Size: 19373056
+MD5sum: 92c417799929eab70616a237f0471560
+SHA1: 4f06774f03d97d9fb4d77dae144ab91b594aff30
+SHA256: 2e6ece97cdf280f11c63a557280ba4b6731c0c58209fe22af12761a1fdbdf7df
+SHA512: 3ff7a27eb2831010d8e49a9b8c395315497b24466e7b4034a7cb42b4d460ece35da3112e4015b2c5dffa72ddafd4b2ebcf72056eb529d5aff058143db122c959
+Homepage: https://rustdesk.com
+Description: A remote control software.
+

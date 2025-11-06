@@ -1,0 +1,21 @@
+Package: simplenote
+Architecture: arm64
+Version: 2.23.2
+Priority: optional
+Section: default
+Maintainer: Automattic, Inc. <support@simplenote.com>
+Installed-Size: 475085
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: https://github.com/Automattic/simplenote-electron/releases/download/v2.23.2/Simplenote-linux-2.23.2-arm64.deb
+Size: 149359336
+MD5sum: a3820e6fc98f62766125f3c6ba4198f0
+SHA1: 39f16fe0d18b039ccf0b921190bd807dda3d40ef
+SHA256: e155b8ed0cef89cac69446ab56c387273e979d0e985db319942c887de8870344
+SHA512: e5ffd855798691055a63b71f28cee1d9f74ccd204ccd89a14e09a3ef830583316d8b4cee7501ea1e7a6f1f2f69c89b0ee102744dc8441887982feccad9ccfe1c
+Homepage: https://simplenote.com
+Description: The simplest way to keep notes
+  Simplenote is an easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices for free.
+License: GPL-2.0
+Vendor: Automattic, Inc.
+
