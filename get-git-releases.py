@@ -145,13 +145,13 @@ def check(name: str, repo: dict, version_list: dict) -> None:
 
 if __name__ == "__main__":
     git_repo_list = read_json("git-repo.json")
-    version_list = read_json("local-version.json")
+    version_list = read_json("git-version.json")
     with ThreadPoolExecutor(max_workers=CONFIG["thread"]) as executor:
         tasks = [
             executor.submit(check, name, repo, version_list)
             for name, repo in git_repo_list.items()
         ]
         wait(tasks)
-    # 保存到 local-version.json
-    with open(os.path.join(CONFIG["data_dir"], "local-version.json"), "w") as f:
+    # 保存到 git-version.json
+    with open(os.path.join(CONFIG["data_dir"], "git-version.json"), "w") as f:
         json.dump(version_list, f, indent=4)
