@@ -1,18 +1,18 @@
 Package: simplenote
 Architecture: amd64
-Version: 2.23.2
+Version: 2.24.0
 Priority: optional
 Section: default
 Maintainer: Automattic, Inc. <support@simplenote.com>
 Installed-Size: 460020
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/Automattic/simplenote-electron/releases/download/v2.23.2/Simplenote-linux-2.23.2-amd64.deb
-Size: 144376950
-MD5sum: aee071e460777bd42bd8e5b074e6d4aa
-SHA1: 8f12e190016ff2efcdf0580086dca01c7dbc4fb7
-SHA256: ae5c5a46347d68031324633c27f33afdeabfc6ffca5f58dd638002e6db99f22b
-SHA512: d3104ed1a8cd1b03043fda8d1d7984cf7827fe4eabdeef46a2dbbea9ab96c8026c561de57f2d0a5ff5c2d706ca58c969dd9e0d91e4cd1e2adb73476a6963380a
+Filename: https://github.com/Automattic/simplenote-electron/releases/download/v2.24.0/Simplenote-linux-2.24.0-amd64.deb
+Size: 144380032
+MD5sum: 42a99fb6cf3ec673bc6fff04ef99c8f4
+SHA1: b5f41b3b8bb2785d9c468f241647908bd92c6ccf
+SHA256: 690124d77f88bff655232376a3f99b902fd0103a47ae0e78a4ae2c3550c6dab7
+SHA512: bd919a9596020e7517265645e720fe2e0959e373815845201a3e1f9db2445e1fb47a442083712efa139d3c30f1287210366995a5dfb09ed1ffbdc994c29f580b
 Homepage: https://simplenote.com
 Description: The simplest way to keep notes
   Simplenote is an easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices for free.
