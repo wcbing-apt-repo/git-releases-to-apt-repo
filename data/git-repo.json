@@ -196,5 +196,12 @@
             "amd64": "fastfetch-linux-amd64.deb",
             "arm64": "fastfetch-linux-aarch64.deb"
         }
+    },
+    "rclone": {
+        "repo": "rclone/rclone",
+        "file_list": {
+            "amd64": "rclone-{releases_tag}-linux-amd64.deb",
+            "arm64": "rclone-{releases_tag}-linux-arm64.deb"
+        }
     }
 }

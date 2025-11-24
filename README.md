@@ -36,6 +36,7 @@
 | [Hoppscotch](https://github.com/hoppscotch/releases) | hoppscotch | ✅ | |
 | [Dust](https://github.com/bootandy/dust) | du-dust | ✅ | |
 | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch | ✅ | ✅ |
+| [Rclone](https://github.com/rclone/rclone) | rclone | ✅ | ✅ |
 
 #### Gitee
 
