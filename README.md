@@ -38,6 +38,7 @@
 | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch | ✅ | ✅ |
 | [Rclone](https://github.com/rclone/rclone) | rclone | ✅ | ✅ |
 | [bat](https://github.com/sharkdp/bat) | bat | ✅ | ✅ |
+| [bottom (btm)](https://github.com/ClementTsang/bottom) | bottom | ✅ | ✅ |
 
 #### Gitee
 
