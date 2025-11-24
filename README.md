@@ -35,6 +35,7 @@
 | [Sparkle](https://github.com/xishang0128/sparkle) | sparkle | ✅ | ✅ |
 | [Hoppscotch](https://github.com/hoppscotch/releases) | hoppscotch | ✅ | |
 | [Dust](https://github.com/bootandy/dust) | du-dust | ✅ | |
+| [Fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch | ✅ | ✅ |
 
 #### Gitee
 
