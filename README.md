@@ -33,6 +33,7 @@
 | [Simplenote](https://github.com/Automattic/simplenote-electron) | simplenote | ✅ | ✅ |
 | [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | yesplaymusic | ✅ | ✅ |
 | [Sparkle](https://github.com/xishang0128/sparkle) | sparkle | ✅ | ✅ |
+| [Hoppscotch](https://github.com/hoppscotch/releases) | hoppscotch | ✅ | |
 
 #### Gitee
 

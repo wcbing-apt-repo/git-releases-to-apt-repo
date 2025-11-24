@@ -177,5 +177,11 @@
             "amd64": "sparkle-linux-{releases_tag}-amd64.deb",
             "arm64": "sparkle-linux-{releases_tag}-arm64.deb"
         }
+    },
+    "hoppscotch": {
+        "repo": "hoppscotch/releases",
+        "file_list": {
+            "amd64": "Hoppscotch_linux_x64.deb"
+        }
     }
 }
