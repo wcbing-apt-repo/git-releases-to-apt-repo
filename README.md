@@ -24,6 +24,7 @@
 | [Caddy](https://github.com/caddyserver/caddy) | caddy | ✅ | ✅ |
 | [code-server](https://github.com/coder/code-server) | code-server | ✅ | ✅ |
 | [DBeaver](https://github.com/dbeaver/dbeaver) | dbeaver-ce | ✅ | |
+| [Flameshot](https://github.com/flameshot-org/flameshot) | flameshot | ✅ | |
 | [Joplin](https://github.com/laurent22/joplin) | joplin | ✅ | |
 | [SPlayer](https://github.com/imsyy/SPlayer) | splayer | ✅ | |
 | [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) | tinyrdm | ✅ | |

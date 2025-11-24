@@ -112,6 +112,12 @@
             "amd64": "dbeaver-ce_{version}_amd64.deb"
         }
     },
+    "flameshot": {
+        "repo": "flameshot-org/flameshot",
+        "file_list": {
+            "amd64": "flameshot-{version}-1.debian-12.amd64.deb"
+        }
+    },
     "joplin": {
         "repo": "laurent22/joplin",
         "file_list": {
