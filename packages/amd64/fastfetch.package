@@ -1,0 +1,18 @@
+Package: fastfetch
+Architecture: amd64
+Version: 2.55.1
+Priority: optional
+Section: devel
+Maintainer: Carter Li <zhangsongcui@live.cn>
+Installed-Size: 14545
+Depends: libc6 (>= 2.35)
+Filename: https://github.com/fastfetch-cli/fastfetch/releases/download/2.55.1/fastfetch-linux-amd64.deb
+Size: 5412598
+MD5sum: 8248b9ba5785002adcb9d940ceef6dbe
+SHA1: 902f96b03773baf4b3adac507a9c3608a73fa533
+SHA256: 56c3ce480be0280abd6c51f8067cbe8e1be6eefec8e297fd8a7a5cfcd3c2344e
+SHA512: 099ed2c41e56baf75d5546e0bbd6ff079ef3d811b7f50c300c0fd714283974ec0c774cc6a039f628b1239ff69caecde3bd6e71b09645099f1755be4bf89b2b36
+Homepage: https://github.com/fastfetch-cli/fastfetch
+Description: Fast neofetch-like system information tool
+ fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
+

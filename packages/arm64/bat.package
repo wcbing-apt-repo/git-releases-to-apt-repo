@@ -1,0 +1,18 @@
+Package: bat
+Architecture: arm64
+Version: 0.26.0
+Priority: optional
+Section: utils
+Maintainer: David Peter <mail@david-peter.de>
+Provides: bat
+Conflicts: bat-musl
+Filename: https://github.com/sharkdp/bat/releases/download/v0.26.0/bat_0.26.0_arm64.deb
+Size: 2862046
+MD5sum: 00f201df55f513dcab9a593c73e334c9
+SHA1: b7be3b9869f4a5a0059911f80821d583b386dc2b
+SHA256: 01ce3978efb66bed7d26b539de4bf21f136c5c4fa5b5770a48ad87b75aae58bf
+SHA512: 6b1dfd50d28e1975e95b208e0539006c279b0afa8c590a608e93bb0b109803981c9b27986f170e37806ed9bbc3a7a60c249a69294a659f3490eae1564ae12ee0
+Homepage: https://github.com/sharkdp/bat
+Description: cat(1) clone with wings.
+  A cat(1) clone with syntax highlighting and Git integration.
+
