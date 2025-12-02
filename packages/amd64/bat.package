@@ -1,17 +1,17 @@
 Package: bat
 Architecture: amd64
-Version: 0.26.0
+Version: 0.26.1
 Priority: optional
 Section: utils
 Maintainer: David Peter <mail@david-peter.de>
 Provides: bat
 Conflicts: bat-musl
-Filename: https://github.com/sharkdp/bat/releases/download/v0.26.0/bat_0.26.0_amd64.deb
-Size: 3033648
-MD5sum: 29bd60a591ec872e9a030e980cd42584
-SHA1: 77a5f50ce6e8fc1c64c1825827b78b5f4d5ddccb
-SHA256: 9ac368d45c926935cf692230b7ce412074069ca1393b0735e4a44f1f0b3ca958
-SHA512: 1694e8b0da5797b37ffbb4245b10a7c6cc126050c54b0beb2e9ca45120bf4abd59d3646424adbf6032cb159522f38594dc29674f5d2449cb7ade8449de27dd59
+Filename: https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_amd64.deb
+Size: 3037592
+MD5sum: 03b9305cca73527a683c5bb6c67a9788
+SHA1: a83665d81c2ff50c2fa5018e2543be67b67ece9f
+SHA256: ad59954aa1540e526f97267f60557ea5ef4c7dcf91a0811254134537cb353a3c
+SHA512: 5f06cfc449ed997bab071c0fe9e75057ef37b76cd6a876351f142b1977b7f22f41b1711ecc0e9cf84ff32a9c268d4d6a5b0af99d2be7c9bb55e7bbeda9266388
 Homepage: https://github.com/sharkdp/bat
 Description: cat(1) clone with wings.
   A cat(1) clone with syntax highlighting and Git integration.
