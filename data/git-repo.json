@@ -276,5 +276,11 @@
             "amd64": "UotanToolbox_Linux_x64_{releases_tag}.deb",
             "arm64": "UotanToolbox_Linux_arm64_{releases_tag}.deb"
         }
+    },
+    "balena-etcher": {
+        "repo": "balena-io/etcher",
+        "file_list": {
+            "amd64": "balena-etcher_{version}_amd64.deb"
+        }
     }
 }
