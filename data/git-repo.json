@@ -269,5 +269,12 @@
             "amd64": "Koodo-Reader-{version}-amd64.deb",
             "arm64": "Koodo-Reader-{version}-arm64.deb"
         }
+    },
+    "uotantoolbox": {
+        "repo": "Uotan-Dev/UotanToolboxNT",
+        "file_list": {
+            "amd64": "UotanToolbox_Linux_x64_{releases_tag}.deb",
+            "arm64": "UotanToolbox_Linux_arm64_{releases_tag}.deb"
+        }
     }
 }

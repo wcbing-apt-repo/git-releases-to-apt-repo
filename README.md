@@ -48,6 +48,7 @@
 | [OnlyOffice 桌面编辑器](https://github.com/ONLYOFFICE/DesktopEditors) | onlyoffice-desktopeditors | ✅ | |
 | [venera](https://github.com/venera-app/venera) | venera | ✅ | ✅ |
 | [Koodo Reader](https://github.com/koodo-reader/koodo-reader) | koodo-reader | ✅ | ✅ |
+| [柚坛工具箱 NT](https://github.com/Uotan-Dev/UotanToolboxNT) | uotantoolbox | ✅ | ✅ |
 
 
 ### Gitee
