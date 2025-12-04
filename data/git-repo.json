@@ -40,7 +40,7 @@
             "amd64": "obsidian_{version}_amd64.deb"
         }
     },
-    "tabby": {
+    "tabby-terminal": {
         "repo": "Eugeny/tabby",
         "file_list": {
             "amd64": "tabby-{version}-linux-x64.deb",
