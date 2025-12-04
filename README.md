@@ -43,6 +43,7 @@
 | [bat](https://github.com/sharkdp/bat) | bat | ✅ | ✅ |
 | [bottom (btm)](https://github.com/ClementTsang/bottom) | bottom | ✅ | ✅ |
 | [SunnyCapturer](https://github.com/XMuli/SunnyCapturer)| sunnycapturer | ✅ | |
+| [Trippy](https://github.com/fujiapple852/trippy) | trippy | ✅ | |
 
 
 ### Gitee

@@ -236,5 +236,11 @@
         "file_list": {
             "amd64": "SunnyCapturer_{version}_x64.deb"
         }
+    },
+    "trippy": {
+        "repo": "fujiapple852/trippy",
+        "file_list": {
+            "amd64": "trippy_x86_64-unknown-linux-musl_0.13.0_amd64.deb"
+        }
     }
 }
