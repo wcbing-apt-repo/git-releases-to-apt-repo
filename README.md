@@ -47,6 +47,7 @@
 | [思源笔记](https://github.com/siyuan-note/siyuan) | siyuan | ✅ | ✅ |
 | [OnlyOffice 桌面编辑器](https://github.com/ONLYOFFICE/DesktopEditors) | onlyoffice-desktopeditors | ✅ | |
 | [venera](https://github.com/venera-app/venera) | venera | ✅ | ✅ |
+| [Koodo Reader](https://github.com/koodo-reader/koodo-reader) | koodo-reader | ✅ | ✅ |
 
 
 ### Gitee

@@ -262,5 +262,12 @@
             "amd64": "venera_{version}_amd64.deb",
             "arm64": "venera_{version}_arm64.deb"
         }
+    },
+    "koodo-reader": {
+        "repo": "koodo-reader/koodo-reader",
+        "file_list": {
+            "amd64": "Koodo-Reader-{version}-amd64.deb",
+            "arm64": "Koodo-Reader-{version}-arm64.deb"
+        }
     }
 }
