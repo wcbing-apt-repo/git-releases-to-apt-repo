@@ -42,6 +42,8 @@
 | [Rclone](https://github.com/rclone/rclone) | rclone | ✅ | ✅ |
 | [bat](https://github.com/sharkdp/bat) | bat | ✅ | ✅ |
 | [bottom (btm)](https://github.com/ClementTsang/bottom) | bottom | ✅ | ✅ |
+| [SunnyCapturer](https://github.com/XMuli/SunnyCapturer)| sunnycapturer | ✅ | |
+
 
 ### Gitee
 
