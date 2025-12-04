@@ -44,6 +44,7 @@
 | [bottom (btm)](https://github.com/ClementTsang/bottom) | bottom | ✅ | ✅ |
 | [SunnyCapturer](https://github.com/XMuli/SunnyCapturer)| sunnycapturer | ✅ | |
 | [Trippy](https://github.com/fujiapple852/trippy) | trippy | ✅ | |
+| [思源笔记](https://github.com/siyuan-note/siyuan) | siyuan | ✅ | ✅ |
 
 
 ### Gitee

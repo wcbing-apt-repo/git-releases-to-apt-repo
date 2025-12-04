@@ -242,5 +242,12 @@
         "file_list": {
             "amd64": "trippy_x86_64-unknown-linux-musl_0.13.0_amd64.deb"
         }
+    },
+    "siyuan": {
+        "repo": "siyuan-note/siyuan",
+        "file_list": {
+            "amd64": "siyuan-{version}-linux.deb",
+            "arm64": "siyuan-{version}-linux-arm64.deb"
+        }
     }
 }
