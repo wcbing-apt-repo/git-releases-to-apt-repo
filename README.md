@@ -51,6 +51,7 @@
 | [柚坛工具箱 NT](https://github.com/Uotan-Dev/UotanToolboxNT) | uotantoolbox | ✅ | ✅ |
 | [balenaEtcher](https://github.com/balena-io/etcher) | balena-etcher | ✅ | |
 | [zyfun[ZyPlayer]](https://github.com/Hiram-Wong/ZyPlayer) | zyfun | ✅ | ✅ | |
+| [PDFsam Basic](https://github.com/torakiki/pdfsam) | pdfsam-basic | ✅ | |
 
 
 ### Gitee
