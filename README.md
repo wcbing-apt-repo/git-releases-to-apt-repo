@@ -45,6 +45,7 @@
 | [SunnyCapturer](https://github.com/XMuli/SunnyCapturer)| sunnycapturer | ✅ | |
 | [Trippy](https://github.com/fujiapple852/trippy) | trippy | ✅ | |
 | [思源笔记](https://github.com/siyuan-note/siyuan) | siyuan | ✅ | ✅ |
+| [OnlyOffice 桌面编辑器](https://github.com/ONLYOFFICE/DesktopEditors) | onlyoffice-desktopeditors | ✅ | |
 
 
 ### Gitee

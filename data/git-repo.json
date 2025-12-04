@@ -249,5 +249,11 @@
             "amd64": "siyuan-{version}-linux.deb",
             "arm64": "siyuan-{version}-linux-arm64.deb"
         }
+    },
+    "onlyoffice-desktopeditors": {
+        "repo": "ONLYOFFICE/DesktopEditors",
+        "file_list": {
+            "amd64": "onlyoffice-desktopeditors_amd64.deb"
+        }
     }
 }
