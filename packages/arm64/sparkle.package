@@ -1,18 +1,18 @@
 Package: sparkle
 Architecture: arm64
-Version: 1.6.15
+Version: 1.6.16
 Priority: optional
 Section: default
 Maintainer: xishang0128
-Installed-Size: 514512
+Installed-Size: 516762
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/xishang0128/sparkle/releases/download/1.6.15/sparkle-linux-1.6.15-arm64.deb
-Size: 108849328
-MD5sum: 7ea10441b0c3ea4d82d216ff090cb90c
-SHA1: d5d8c3a0c7b88d499230ba786d464a9c0f88def4
-SHA256: 968d7dc704aa3604f107166e34857b72adaa13ddf1b5bc67b27ecadef44e9ab7
-SHA512: 6402254b3e9fc423050645d93884ca18464ca9bf5c8faa3b76c2876dd27ea52e1763a2ab6151e68369ba20d3a34c853614ab04dd1e070c6241839520ebe16942
+Filename: https://github.com/xishang0128/sparkle/releases/download/1.6.16/sparkle-linux-1.6.16-arm64.deb
+Size: 109609678
+MD5sum: ba908ae499d04f0ddfbce266805940ce
+SHA1: 1b7ce44d76d4b27b39263400a9a2e4a95bdcb42b
+SHA256: 49c5a559de43ffc5da2443db89cc080f66a896ac8d8a89d0723a52023dfa668a
+SHA512: 604a011bfa3c1232df1ee90e87b7193540ea9f918092755806a269bdb50c172c67512fe791c2c9adb4ef12285fca6526c033f20f3f39debafe4baa0d12f21c1e
 Homepage: https://github.com/xishang0128/sparkle
 Description: 
   Sparkle
