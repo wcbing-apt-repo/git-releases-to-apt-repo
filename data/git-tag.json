@@ -44,5 +44,8 @@
     "zyfun": "v3.4.0",
     "musicfree": "v0.0.8",
     "onlyoffice-desktopeditors": "v9.2.0",
-    "grpcurl": "v1.9.3"
+    "grpcurl": "v1.9.3",
+    "systemd-manager-tui": "v1.2.0",
+    "cherrystudio": "v1.7.6",
+    "tinygo": "v0.40.1"
 }
