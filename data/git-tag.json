@@ -15,7 +15,7 @@
     "caddy": "v2.10.2",
     "hiddify": "v2.0.5",
     "code-server": "v4.107.0",
-    "dbeaver-ce": "25.3.1",
+    "dbeaver-ce": "25.3.2",
     "tinyrdm": "v1.2.5",
     "joplin": "v3.4.12",
     "fooyin": "v0.9.2",
@@ -46,7 +46,7 @@
     "onlyoffice-desktopeditors": "v9.2.1",
     "grpcurl": "v1.9.3",
     "systemd-manager-tui": "v1.2.0",
-    "cherrystudio": "v1.7.8",
+    "cherrystudio": "v1.7.9",
     "tinygo": "v0.40.1",
     "draw.io": "v29.2.9"
 }
