@@ -1,18 +1,18 @@
 Package: splayer
 Architecture: amd64
-Version: 3.0.0~beta.7
+Version: 3.0.0~beta.8
 Priority: optional
 Section: default
 Maintainer: imsyy.top
-Installed-Size: 376344
+Installed-Size: 377832
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/imsyy/SPlayer/releases/download/v3.0.0-beta.7/splayer-3.0.0-beta.7-amd64.deb
-Size: 103852382
-MD5sum: 1b42d334966357976d4c53a86c629b20
-SHA1: 7683d298bf319741d7b7d2c33eda18a8d7967ca0
-SHA256: d4873759f9e856996d7f65342bed9c1ba2753657a23eb2dac9caaedb91e40cc7
-SHA512: e66c5028e31dd204d77c8e8bf3a3812118744d3a69208d314490378e09dd0c0087cafe7242a05b76905c9e4257874d301f1af83a9db5b0d2c6aa6d69e2d1e6a2
+Filename: https://github.com/imsyy/SPlayer/releases/download/v3.0.0-beta.8.2025/splayer-3.0.0-beta.8-amd64.deb
+Size: 104267564
+MD5sum: 05d055aeb1265eec42672382aa06c517
+SHA1: 71a25e6b900bcf8854cdc544d2a66e91d4c68931
+SHA256: 478f815e6703a8024335fddca162aeb92ddafd328ad3e1b7041953e7e7615bb6
+SHA512: a5850629c588b767023c6b93c5b53b59746c70f6c9f77cf0585a3e2307e092b1c40bb05941d100bb407df2d1e8c3e816921b74b3f22ada680b7f30514c616a15
 Homepage: https://github.com/imsyy/SPlayer#readme
 Description: 
   A minimalist music player
