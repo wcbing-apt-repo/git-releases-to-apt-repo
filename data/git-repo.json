@@ -371,5 +371,12 @@
             "amd64": "ClassIsland_app_linux_x64_selfContained_deb.deb",
             "arm64": "ClassIsland_app_linux_arm64_selfContained_deb.deb"
         }
+    },
+    "waveterm": {
+        "repo": "wavetermdev/waveterm",
+        "file_list": {
+            "amd64": "waveterm-linux-amd64-{version}.deb",
+            "arm64": "waveterm-linux-arm64-{version}.deb"
+        }
     }
 }
