@@ -1,0 +1,21 @@
+Package: waveterm
+Architecture: arm64
+Version: 0.13.1
+Priority: optional
+Section: default
+Maintainer: Command Line Inc <info@commandline.dev>
+Installed-Size: 603108
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: https://github.com/wavetermdev/waveterm/releases/download/v0.13.1/waveterm-linux-arm64-0.13.1.deb
+Size: 154234760
+MD5sum: 08d6200fc9a42692cf5fb52b341a741a
+SHA1: adb55bf6442824e901799fd0c94d8b3dbd425d79
+SHA256: 84f719a74981cc49da63e7be2a0e57ca744e59dbb276eb50d9d6af84b83d6c8e
+SHA512: 4183ecdf5ea378c1ba7b23d504e8bd29d3f6c2091a59506f1344ff0af843188261cce47031bd5347a3b874a36392bcc43f4d4d25b636508f92f4c6149ebf78b3
+Homepage: https://waveterm.dev
+Description: Open-Source AI-Native Terminal Built for Seamless Workflows
+  Open-Source AI-Native Terminal Built for Seamless Workflows
+License: Apache-2.0
+Vendor: Command Line Inc <info@commandline.dev>
+
