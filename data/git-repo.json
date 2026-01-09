@@ -378,5 +378,12 @@
             "amd64": "waveterm-linux-amd64-{version}.deb",
             "arm64": "waveterm-linux-arm64-{version}.deb"
         }
+    },
+    "fresh-editor": {
+        "repo": "sinelaw/fresh",
+        "file_list": {
+            "amd64": "fresh-editor_{version}-1_amd64.deb",
+            "arm64": "fresh-editor_{version}-1_arm64.deb"
+        }
     }
 }
