@@ -1,17 +1,17 @@
 Package: du-dust
 Architecture: amd64
-Version: 1.2.3-1
+Version: 1.2.4-1
 Priority: optional
 Section: utils
 Maintainer: bootandy <bootandy@gmail.com>
-Installed-Size: 3185
+Installed-Size: 3122
 Depends:
-Filename: https://github.com/bootandy/dust/releases/download/v1.2.3/du-dust_1.2.3-1_amd64.deb
-Size: 1006500
-MD5sum: d1d618e17049cc94d3a2d34c6c1e13fc
-SHA1: 9c4c65ceaf8896021e6b080725e071446595450d
-SHA256: 7859532f9c5cc260b05bfa276eebca2cf34c2c237414667e8f6401b4acb24eb9
-SHA512: b707a2e39588b08329ca4b2cdcaef64567cfb4f91d97ab718571a8b80e3adde629b89ff5842f2fa72e532fbaa8d07d0f36294b4bbdfb4bc76e0550968bc28a34
+Filename: https://github.com/bootandy/dust/releases/download/v1.2.4/du-dust_1.2.4-1_amd64.deb
+Size: 992896
+MD5sum: 3f637b632b90f268df37c805aa075888
+SHA1: 027a389f1c0db58948b673984d5e5af1f6104ee1
+SHA256: c1bd69dc1cd05bbc84d3581d6d355fe60063c235f2bfec5bd46d551e5baacc66
+SHA512: 3e0fc84d6418445581c30553c8814a95f6824d8628172817d8fd70337fe8a45d9523a62e92b3434ebe0200029adad1ec23376c3366e6316ca81d3e57cf9694d1
 Homepage: https://github.com/bootandy/dust
 Description: A more intuitive version of du
  Dust is meant to give you an instant overview of which directories are using

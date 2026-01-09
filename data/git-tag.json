@@ -28,7 +28,7 @@
     "spark-store": "4.8.3",
     "hoppscotch": "v25.12.1-0",
     "flameshot": "v13.3.0",
-    "du-dust": "v1.2.3",
+    "du-dust": "v1.2.4",
     "fastfetch": "2.56.1",
     "bat": "v0.26.1",
     "rclone": "v1.72.1",
@@ -54,5 +54,6 @@
     "bongo-cat": "v0.9.0",
     "yazi": "v26.1.4",
     "cn.classisland.app": "2.0.0.1",
-    "waveterm": "v0.13.1"
+    "waveterm": "v0.13.1",
+    "fresh-editor": "v0.1.75"
 }
