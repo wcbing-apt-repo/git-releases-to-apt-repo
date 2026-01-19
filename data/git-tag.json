@@ -25,7 +25,7 @@
     "yesplaymusic": "v0.4.10",
     "simplenote": "v2.24.0",
     "sparkle": "1.6.16",
-    "spark-store": "4.8.3",
+    "spark-store": "4.8.4",
     "hoppscotch": "v25.12.1-0",
     "flameshot": "v13.3.0",
     "du-dust": "v1.2.4",
@@ -55,6 +55,6 @@
     "yazi": "v26.1.4",
     "cn.classisland.app": "2.0.0.2",
     "waveterm": "v0.13.1",
-    "fresh-editor": "v0.1.77",
+    "fresh-editor": "v0.1.83",
     "cryptomator": "1.18.0"
 }
