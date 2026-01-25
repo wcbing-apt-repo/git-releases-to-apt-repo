@@ -1,18 +1,18 @@
 Package: cherrystudio
 Architecture: amd64
-Version: 1.7.13
+Version: 1.7.14
 Priority: optional
 Section: default
 Maintainer: electronjs.org
-Installed-Size: 492654
+Installed-Size: 492895
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.13/Cherry-Studio-1.7.13-amd64.deb
-Size: 144239844
-MD5sum: 53a61049d2fa09c513eb2263f2c9a737
-SHA1: 0b0686a0d6ee9bc9618fd4ff3abe3d48dc36d563
-SHA256: 9a44782a4f87ee51ed8a348b9a86cbda1e65f0669dc08cd7867409d19a96ffa5
-SHA512: f5e3a060c63f4a708b01140e6bbb492868d74a7f69f72b3f066fbe560ccbe1e374de1a94a54cb2bd858bfe725532b880eb0fa4d178157775445dc86e6868d424
+Filename: https://github.com/CherryHQ/cherry-studio/releases/download/v1.7.14/Cherry-Studio-1.7.14-amd64.deb
+Size: 144325752
+MD5sum: 371e239597153e5e914049e319e05411
+SHA1: 1287457b2b11eeaf7276793dccf16b55ddac99c6
+SHA256: 46aaf93f1e178514424176933479c5643528c8fe937349e9b3b3bd56edc5f111
+SHA512: 9f61b304fe53aae6cd52f9537de1c2d8231cf22b79bcb316ce5b24a5e3d2b92d9132fffda27f086ff9b26153cf9260dc534aa13756a132e8404ccce4c879c486
 Homepage: https://github.com/CherryHQ/cherry-studio
 Description: 
   A powerful AI assistant for producer.
