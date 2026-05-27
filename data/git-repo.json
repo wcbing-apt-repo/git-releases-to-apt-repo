@@ -1,9 +1,9 @@
 {
     "alixby": {
-        "repo": "gaozhangmin/aliyunpan",
+        "repo": "gaozhangmin/boxplayer",
         "file_list": {
-            "amd64": "xbyboxplayer-{version}-linux-amd64.deb "
-            "arm64": "xbyboxplayer-{version}-linux-arm64.deb "
+            "amd64": "boxplayer-{version}-linux-amd64.deb"
+            "arm64": "boxplayer-{version}-linux-arm64.deb"
         }
     },
     "balena-etcher": {
