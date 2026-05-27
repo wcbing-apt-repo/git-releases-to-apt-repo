@@ -115,10 +115,18 @@
             "amd64": "du-dust_{version}-1_amd64.deb"
         }
     },
+    "dufs": {
+        "repo": "wcbing-apt-repo/dufs-debs",
+        "file_list": {
+            "amd64": "dufs_{version}+1_amd64.deb",
+            "arm64": "dufs_{version}+1_arm64.deb"
+        }
+    },
     "easypostman": {
         "repo": "lakernote/EasyPostman",
         "file_list": {
-            "amd64": "easypostman_{version}-1_amd64.deb"
+            "amd64": "Easypostman-{version}-linux-amd64.deb",
+            "arm64": "EasyPostman-{version}-linux-arm64.deb"
         }
     },
     "edrlab.thoriumreader": {
@@ -133,6 +141,13 @@
         "file_list": {
             "amd64": "fastfetch-linux-amd64.deb",
             "arm64": "fastfetch-linux-aarch64.deb"
+        }
+    },
+    "filebrowser": {
+        "repo": "wcbing-apt-repo/filebrowser-debs",
+        "file_list": {
+            "amd64": "filebrowser_{version}+1_amd64.deb",
+            "arm64": "filebrowser_{version}+1_arm64.deb"
         }
     },
     "flameshot": {
@@ -167,6 +182,34 @@
             "arm64": "fresh-editor_{version}-1_arm64.deb"
         }
     },
+    "frpc": {
+        "repo": "wcbing-apt-repo/frp-debs",
+        "file_list": {
+            "amd64": "frpc_{version}+1_amd64.deb",
+            "arm64": "frpc_{version}+1_arm64.deb"
+        }
+    },
+    "frps": {
+        "repo": "wcbing-apt-repo/frp-debs",
+        "file_list": {
+            "amd64": "frps_{version}+1_amd64.deb",
+            "arm64": "frps_{version}+1_arm64.deb"
+        }
+    },
+    "frpc-desktop": {
+        "repo": "luckjiawei/frpc-desktop",
+        "file_list": {
+            "amd64": "Frpc-Desktop_{version}_amd64.deb",
+            "arm64": "Frpc-Desktop_{version}_arm64.deb"
+        }
+    },
+    "ghost-downloader": {
+        "repo": "XiaoYouChR/Ghost-Downloader-3",
+        "file_list": {
+            "amd64": "Ghost-Downloader-{releases_tag}-Linux-x86_64.deb",
+            "arm64": "Ghost-Downloader-{releases_tag}-Linux-arm64.deb"
+        }
+    },
     "grpcurl": {
         "repo": "fullstorydev/grpcurl",
         "file_list": {
@@ -184,6 +227,13 @@
         "repo": "hoppscotch/releases",
         "file_list": {
             "amd64": "Hoppscotch_linux_x64.deb"
+        }
+    },
+    "himalaya": {
+        "repo": "wcbing-apt-repo/himalaya-debs",
+        "file_list": {
+            "amd64": "himalaya_{version}+1_amd64.deb",
+            "arm64": "himalaya_{version}+1_arm64.deb"
         }
     },
     "hugo": {
@@ -213,6 +263,20 @@
             "arm64": "kula-{version}-arm64.deb"
         }
     },
+    "lazydocker": {
+        "repo": "wcbing-apt-repo/lazydocker-debs",
+        "file_list": {
+            "amd64": "lazydocker_{version}+1_amd64.deb",
+            "arm64": "lazydocker_{version}+1_arm64.deb"
+        }
+    },
+    "lazygit": {
+        "repo": "wcbing-apt-repo/lazygit-debs",
+        "file_list": {
+            "amd64": "lazygit_{version}+1_amd64.deb",
+            "arm64": "lazygit_{version}+1_arm64.deb"
+        }
+    },
     "localsend": {
         "repo": "localsend/localsend",
         "file_list": {
@@ -225,6 +289,13 @@
         "file_list": {
             "amd64": "mihomo-linux-amd64-{releases_tag}.deb",
             "arm64": "mihomo-linux-arm64-{releases_tag}.deb"
+        }
+    },
+    "motrix-next": {
+        "repo": "AnInsomniacy/motrix-next",
+        "file_list": {
+            "amd64": "MotrixNext_{version}_amd64.deb",
+            "arm64": "MotrixNext_{version}_arm64.deb"
         }
     },
     "mqttx": {
@@ -240,10 +311,23 @@
             "amd64": "MusicFree-{version}-linux-amd64.deb"
         }
     },
+    "msedit": {
+        "repo": "wcbing-apt-repo/msedit-debs",
+        "file_list": {
+            "amd64": "msedit_{version}+1_amd64.deb",
+            "arm64": "msedit_{version}+1_arm64.deb"
+        }
+    },
     "nautilus-open-any-terminal": {
         "repo": "Stunkymonkey/nautilus-open-any-terminal",
         "file_list": {
             "all": "nautilus-extension-any-terminal_{version}-1_all.deb"
+        }
+    },
+    "neovide": {
+        "repo": "wcbing-apt-repo/neovide-debs",
+        "file_list": {
+            "amd64": "neovide_{version}+1_amd64.deb"
         }
     },
     "neovim": {
@@ -257,6 +341,20 @@
         "file_list": {
             "amd64": "netease-cloud-music_{version}_linux_amd64.deb",
             "arm64": "netease-cloud-music_{version}_linux_arm64.deb"
+        }
+    },
+    "nexttrace": {
+        "repo": "nxtrace/nexttrace-debs",
+        "file_list": {
+            "amd64": "nexttrace_{version}+1_amd64.deb",
+            "arm64": "nexttrace_{version}+1_arm64.deb"
+        }
+    },
+    "nexttrace-tiny": {
+        "repo": "nxtrace/nexttrace-debs",
+        "file_list": {
+            "amd64": "nexttrace-tiny_{version}+1_amd64.deb",
+            "arm64": "nexttrace-tiny_{version}+1_arm64.deb"
         }
     },
     "obsidian": {
@@ -324,14 +422,6 @@
             "arm64": "siyuan-{version}-linux-arm64.deb"
         }
     },
-    "spark-store": {
-        "site": "https://gitee.com",
-        "repo": "spark-store-project/spark-store",
-        "file_list": {
-            "amd64": "spark-store_{releases_tag}_amd64.deb",
-            "arm64": "spark-store_{releases_tag}_arm64.deb"
-        }
-    },
     "sparkle": {
         "repo": "xishang0128/sparkle",
         "file_list": {
@@ -344,6 +434,13 @@
         "file_list": {
             "amd64": "splayer-{version}-amd64.deb",
             "arm64": "splayer-{version}-arm64.deb"
+        }
+    },
+    "superfile": {
+        "repo": "wcbing-apt-repo/superfile-debs",
+        "file_list": {
+            "amd64": "superfile_{version}+1_amd64.deb",
+            "arm64": "superfile_{version}+1_arm64.deb"
         }
     },
     "systemd-manager-tui": {

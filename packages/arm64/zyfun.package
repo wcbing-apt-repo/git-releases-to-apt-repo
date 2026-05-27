@@ -1,18 +1,18 @@
 Package: zyfun
 Architecture: arm64
-Version: 3.4.3
+Version: 3.4.6
 Priority: optional
 Section: default
 Maintainer: zyfun
-Installed-Size: 460708
+Installed-Size: 486248
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.3/zyfun-linux-3.4.3-arm64.deb
-Size: 120523160
-MD5sum: 036673503f7a7bfb4deeb2433c0175ae
-SHA1: 6efffa493e5c025a998885ff5361316b00008b89
-SHA256: 60392d91a667020089b2e2c7d24be0e358b234013d7a5ac1ff67de32c5f0049d
-SHA512: 6990aede763e9389cf8dbdcbb96090c0e14cac67c8041dfbbaf92af1b64a0472940286c6494bcbb0658dbaad010ab71b6eaf28807567e1e6cb907fcc8494dde4
+Filename: https://github.com/Hiram-Wong/zyfun/releases/download/v3.4.6/zyfun-linux-3.4.6-arm64.deb
+Size: 125895884
+MD5sum: 1587aeeca365469be211815ef018d18a
+SHA1: f85c3aaff1ede85a6e3673132bd5f31903724f2b
+SHA256: acf229ae6302d26ad3c0832c3d6b94fc08231745afd52b016b729b0e9fdf3947
+SHA512: f9bf7ea6d17bb884b26ddc0ebab99a53a080a7ac5053922f7b1f1cb25df8ce85fc85a640fa0bf2f336398e10a50b771b01d36ab137fe7f4e16861337f7e7d19d
 Homepage: https://github.com/Hiram-Wong/zyfun
 Description: 
   Discover the world by watching movies.
