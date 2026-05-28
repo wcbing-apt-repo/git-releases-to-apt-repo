@@ -23,11 +23,11 @@ sudo apt update
 
 | 软件名 | 包名 | amd64 | arm64 |
 | ----- | ---- | ----- | ----- |
-| [alixby](https://github.com/gaozhangmin/aliyunpan) | alixby | ✅ | ✅ |
 | [balenaEtcher](https://github.com/balena-io/etcher) | balena-etcher | ✅ | |
 | [bat](https://github.com/sharkdp/bat) | bat | ✅ | ✅ |
 | [BongoCat](https://github.com/ayangweb/BongoCat) | bongo-cat | ✅ | ✅ |
 | [bottom (btm)](https://github.com/ClementTsang/bottom) | bottom | ✅ | ✅ |
+| [boxplayer](https://github.com/gaozhangmin/boxplayer) | boxplayer | ✅ | ✅ |
 | [Caddy](https://github.com/caddyserver/caddy) | caddy | ✅ | ✅ |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | cherrystudio | ✅ | ✅ |
 | [chezmoi](https://github.com/twpayne/chezmoi) | chezmoi | ✅ | ✅ |
