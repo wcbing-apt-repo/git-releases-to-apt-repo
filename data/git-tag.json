@@ -2,7 +2,7 @@
     "balena-etcher": "v2.1.6",
     "bat": "v0.26.1",
     "bongo-cat": "v1.1.0",
-    "bottom": "0.14.8",
+    "bottom": "0.14.9",
     "caddy": "v2.11.4",
     "cherrystudio": "v2.0.9",
     "chezmoi": "v2.72.0",
@@ -85,5 +85,7 @@
     "chsrc": "v0.2.7",
     "escrcpy": "v3.0.8",
     "heroic": "v2.22.1",
-    "dbx": "v0.5.96"
+    "dbx": "v0.5.97",
+    "v2raya": "v2.4.16",
+    "v2rayn": "7.24.8"
 }

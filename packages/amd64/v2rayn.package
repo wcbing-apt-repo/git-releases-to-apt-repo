@@ -1,0 +1,18 @@
+Package: v2rayn
+Architecture: amd64
+Version: 7.24.8
+Priority: optional
+Section: net
+Maintainer: 2dust <noreply@github.com>
+Depends: libc6, libfontconfig1, libgcc-s1, libstdc++6, libc6 (>= 2.39), fontconfig (>= 2.15.0), desktop-file-utils (>= 0.26), xdg-utils (>= 1.1.3), coreutils (>= 9.4), bash (>= 5.2.21), libfreetype6 (>= 2.13)
+Filename: https://github.com/2dust/v2rayN/releases/download/7.24.8/v2rayN-linux-64.deb
+Size: 79798012
+MD5sum: 173382560d479c58e0a61ce3d38b564a
+SHA1: 6577b2bdd8945d884b60648c51f38f65b8294a43
+SHA256: 3e9faae4cb3e2e69f8ded7df5c76cbefc5b9d8a5752eaebf34759e21b40c9ee6
+SHA512: d86d2dbc5f1f978fc3e39ca126362f0541b0d5995b7ef19af75c34c784a7a13ebeb56d1d4dc083fd936c8593bab18daf1dd37b772c07752cf381cf0c9b80f6c4
+Homepage: https://github.com/2dust/v2rayN
+Description: v2rayN (Avalonia) GUI client for Linux
+ Support vless / vmess / Trojan / http / socks / Anytls / Hysteria2 /
+ Shadowsocks / tuic / WireGuard.
+
