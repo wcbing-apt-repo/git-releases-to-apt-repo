@@ -1,16 +1,16 @@
 Package: dbx
 Architecture: arm64
-Version: 0.5.98
+Version: 0.5.99
 Priority: optional
 Maintainer: skyler
-Installed-Size: 59161
+Installed-Size: 59681
 Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: https://github.com/t8y2/dbx/releases/download/v0.5.98/DBX_0.5.98_arm64.deb
-Size: 30319676
-MD5sum: af8799f76676f224d1310809fbf2aced
-SHA1: dc2fabe67ac31979d85640c6d86366a63c74b0a8
-SHA256: 0757eebd72a00287ccc210c918d3b9a4fc42ba3c821862b58ecb01d1f8cb3503
-SHA512: 4823a6b33865544fc2dd4e31b616873685b5e13392aa7b33c5f3ce7a1904a86714d86fc5743a334a5a76eb496feda9bbd3c4d5d05f28899b787fcdcf95148c6f
+Filename: https://github.com/t8y2/dbx/releases/download/v0.5.99/DBX_0.5.99_arm64.deb
+Size: 30702922
+MD5sum: c5e63e70956bf333eb424b31c3a24e55
+SHA1: 5658ac97455221cb9486675aa90aa71ac879b6ad
+SHA256: bcfb3682ca167524b2c2c3b613c4ae17bbef7aef1b941acd0574a6d929c4dd2e
+SHA512: f1be803a2c71cca561cc5bb0034845108ece8270b691566b1c442607e3ad44f775bafd313f6cb41fb42b27903f03807d77712a0dd93e740bd8f0d742b5d5e3ef
 Description: Open-source database management tool
  (none)
 
