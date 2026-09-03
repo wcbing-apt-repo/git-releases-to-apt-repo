@@ -1,16 +1,16 @@
 Package: dbx
 Architecture: amd64
-Version: 0.6.0
+Version: 0.6.1
 Priority: optional
 Maintainer: skyler
-Installed-Size: 71072
+Installed-Size: 71463
 Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: https://github.com/t8y2/dbx/releases/download/v0.6.0/DBX_0.6.0_amd64.deb
-Size: 33405066
-MD5sum: a2e3f512bf773abe2a20c8fe4f6340c4
-SHA1: b180891cba157067bc3f79ea6cc67b64f3128a76
-SHA256: aade61a1150aca5abf432cd58369d34d441ce49ae2e2f8658078f41bf1a6e5bd
-SHA512: 8571a4046633ed77273a56a7315e44a501062b3b960c49008b9305ff49efbb050fa09061e4466128248e7d5ff5e79ff7ffcfde17093adc38f55fa219358341ea
+Filename: https://github.com/t8y2/dbx/releases/download/v0.6.1/DBX_0.6.1_amd64.deb
+Size: 33546868
+MD5sum: aa98c88f4817245a810386ea0314fb59
+SHA1: 9ca52b360ad55444d12c237560996a28dc221f47
+SHA256: ef38e5d747833b029b50223295230e07c7a7f6b5ed97f6e2e7349cc5ef41f588
+SHA512: ac2f829a4d4116e1a670ff779a628ada44e566426ac7d2f0c542cb63302e1b8e243e40599b4ba291eed6a380e221983d17d63cad64ebbd641ca385ab0b6a1540
 Description: Open-source database management tool
  (none)
 
