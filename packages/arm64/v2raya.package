@@ -1,16 +1,16 @@
 Package: v2raya
 Architecture: arm64
-Version: 2.4.16
+Version: 2.4.17
 Priority: optional
 Section: default
 Maintainer: v2raya@v2raya.org
-Installed-Size: 88525
-Filename: https://github.com/v2rayA/v2rayA/releases/download/v2.4.16/installer_debian_arm64_2.4.16.deb
-Size: 30786602
-MD5sum: f2f67d47adaaadf8d8e1851a53c4a914
-SHA1: 6306e895c0b46887c044f3f941fb54c6bf24c583
-SHA256: a2cb2958eb2c793c6ac163703e31abb11a99849ac4ed1d7b725dc36519007caa
-SHA512: 44ca6e863fdef12fa104509fb5d9b26ad338f9cabaa5f76753eee5250000242fee229cd0033ac1faa901a59e3f238dea5a86b191e3619ee2ae05089bf95a1647
+Installed-Size: 88498
+Filename: https://github.com/v2rayA/v2rayA/releases/download/v2.4.17/installer_debian_arm64_2.4.17.deb
+Size: 30801800
+MD5sum: 2fee13d0eafc75acce76f6822558c309
+SHA1: b817b6a025f49347cc86be0a52612d4a2bdb4a4d
+SHA256: 5f6828a5c6d7e5208e3662dfcb702c3eed7964b5de7eebb2a070282ad0f451f2
+SHA512: 50f6376cfa85b9282582bbf1dc642ecd88ddf20d89a8ed562240402f2ffed8073853946c8ab6464cf2ced20d42ea2d44c6ebbe993edfd9972c48113cd968917c
 Homepage: https://github.com/v2rayA/v2rayA
 Description: A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols
 License: AGPL
