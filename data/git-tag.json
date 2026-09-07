@@ -40,7 +40,7 @@
     "rclone": "v1.75.1",
     "rustdesk": "1.4.9",
     "simplenote": "v2.27.1",
-    "siyuan": "v3.8.2",
+    "siyuan": "v3.8.3",
     "spark-store": "5.0.0",
     "sparkle": "1.26.8",
     "splayer": "v3.1.1",
@@ -77,7 +77,7 @@
     "superfile": "v1.6.0",
     "nexttrace-tiny": "v1.7.3",
     "ghost-downloader": "v4.3.7",
-    "frpc-desktop": "v1.2.6",
+    "frpc-desktop": "v1.2.7",
     "motrix-next": "v3.9.7",
     "boxplayer": "v5.0.28",
     "tssh": "v0.1.26",
@@ -85,7 +85,7 @@
     "chsrc": "v0.2.7",
     "escrcpy": "v3.2.0",
     "heroic": "v2.22.1",
-    "dbx": "v0.6.5",
+    "dbx": "v0.6.6",
     "v2raya": "v2.4.17",
     "v2rayn": "7.24.9"
 }
